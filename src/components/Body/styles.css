@@ -1,0 +1,5 @@
+.restanunt-cards-contianer {
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
